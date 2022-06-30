@@ -1,0 +1,25 @@
+{
+  "name": "social-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanDonut/Social-Services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanDonut/Social-Services/issues"
+  },
+  "homepage": "https://github.com/PanDonut/Social-Services#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "node-fetch": "^3.2.6",
+    "socket.io": "^4.5.1"
+  }
+}
